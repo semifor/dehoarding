@@ -5,16 +5,16 @@ date: 2014-10-04
 ---
 
 It's not supposed te be about the blog! It's supposed to be about the process
-of decluttering, paring down my possessions, and the stories it inspires.
+of decluttering, paring down my possessions, and the stories that inspires.
 
-I wanted a dead simple log. Write in [Markdown][1], drop it in a [Dropbox][2]
-synced folder, done! But I can't seem to find a site that does reliably. So,
+I wanted a dead simple blog. Write in [Markdown][1], drop it in a [Dropbox][2]
+synced folder, done! But I can't seem to find a site doing that reliably. So,
 that might mean writing my own blogging system. Which seems such a waste.
-Every programming tutorial out there features a blog, it seems. How hard can
-it be? *Famous last words.*
+Every programming tutorial out there seems to feature a blog, as it's sample
+application. How hard can it be? *Famous last words.*
 
 Yesterday evening, I took a set of books to friend Cathy Harris. They're
-cycling murder mysteries. I used to have the whole set, bet one book, [Two
+cycling murder mysteries. I used to have the whole set, but one book, [Two
 Wheels][3] is missing. The first in the series, I think.
 
 This morning, I spent some time in the basement discarding some empty computer
