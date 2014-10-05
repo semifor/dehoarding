@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+For years, I've told my wife, "If it doesn't fit in panniers, we don't
+need it."
 
-### More Information
+I'm finally trying to live up to that motto. This blog is my attempt to
+document the process.
 
-A place to include any other types of information that you'd like to include about yourself. 
+I will be discarding, donating, gifting, and selling many things. Some
+will have sentimental value and memories attached. I'll try to record
+them here.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Someday, I'd like to lease the house out and go on an extended bike
+tour. This is a big step in that direction.
