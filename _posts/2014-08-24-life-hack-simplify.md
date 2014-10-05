@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life Hack: Simplify
+title: "Life Hack: Simplify"
 date: 2014-08-24
 ---
 

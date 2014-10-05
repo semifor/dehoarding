@@ -1,6 +1,6 @@
 ---
 title: What happened?
-layout:post
+layout: post
 date: 2014-09-24
 ---
 
