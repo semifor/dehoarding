@@ -8,7 +8,7 @@ I sent an email this morning to our three adult children. Subject:
 _Abandoned Property Notice_. In the email, I let them know that part of
 my decluttering project is getting rid of the stacks of boxes of their
 stuff. Stuff they left at home when they moved out. Stuff they stashed
-here when the returned from college. Stuff they stashed here when the
+here when they returned from college. Stuff they stashed here when they
 moved from one place to another and needed a _temporary_ place to store
 a few things.
 
