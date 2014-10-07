@@ -25,6 +25,8 @@ Based on what I've learned so far, I offered a couple of suggestions:
    Discard the actual objects that will otherwise sit in a box in a
    basement---just not _my_ basement.
 
+Ulterior motive: one more incentive to get them here for the holidays!
+
 [Pia Hallenberg][7] interviewed me at lunch time, today. Watch for a
 story in the [Spokesman Review][8]. She heard about my decluttering
 project and thinks it will make an interesting story. She'll have to
