@@ -15,7 +15,7 @@ Why were there seven empty wine bottles stashed in the garage? She read
 about this interesting craft project, bought a special glass cutting
 kit, and decided to make out-door candle covers as gifts for friends.
 She collected seven (so far) bottles with unique shapes and colors with
-he intent of cutting the bottoms out and polishing the cut edges.
+the intent of cutting the bottoms out and polishing the cut edges.
 
 That was months ago. I don't know when, or if, she'll find the
 motivation to complete that project. So, I discarded the bottles that
