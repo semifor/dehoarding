@@ -46,3 +46,5 @@ In the worst case, it was a scam. I dunno.
 ### Sold
 - 15 retaining wall blocks, $0.00
 - 100 bricks, $0.00
+
+[1]: http://www.mayoclinic.org/diseases-conditions/hoarding-disorder/basics/definition/con-20031337
