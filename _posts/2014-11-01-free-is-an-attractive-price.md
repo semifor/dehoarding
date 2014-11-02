@@ -27,7 +27,7 @@ straight up. Not sure how they could see where they were going!
 
 Bonus! They spotted a stack of red bricks in the other corner of the
 yard and asked if we wanted to get rid of them. I check with the boss,
-"Hell yeah!" she said, "I've been trying to get rid of those for years.
+"Hell yeah!" she said, "I've been trying to get rid of those for years."
 
 So the couple made a second trip and we've rid ourselves of about a ton
 of junk. Hooyah!
@@ -46,5 +46,3 @@ In the worst case, it was a scam. I dunno.
 ### Sold
 - 15 retaining wall blocks, $0.00
 - 100 bricks, $0.00
-
-[1]: http://www.mayoclinic.org/diseases-conditions/hoarding-disorder/basics/definition/con-20031337
